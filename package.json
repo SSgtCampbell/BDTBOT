@@ -1,6 +1,6 @@
 {
   "name": "BDTBOT",
-  "description": "BDTBOT for BDT MC Server",
+  "description": "test",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
